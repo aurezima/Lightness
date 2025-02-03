@@ -27,4 +27,4 @@ export const generatePalette = (hex, interval = 10) => {
   return colors;
 };
 
-console.log()
+//console.log("#ff0000", 20)
